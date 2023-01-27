@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Apple Watch Series 4 GPS ",
+    "desct": "Redesigned from scratch and completely revised.",
+    "price": 108,
+    "imgUrl": "/imgs/book.jpg"
+  },
+  {
+    "id": 2,
+    "name": "JBL Speaker",
+    "desct": "Redesigned from scratch and completely revised.",
+    "price": 13999,
+    "imgUrl": "/imgs/computer.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Apple Watch Series 4 GPS",
+    "desct": "Redesigned from scratch and completely revised.",
+    "price": 16,
+    "imgUrl": "/imgs/computer.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Apple Watch Series 4 GPS",
+    "desct": "Redesigned from scratch and completely revised.",
+    "price": 14000,
+    "imgUrl": "/imgs/computer.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Apple Watch Series 4 GPS",
+    "desct": "Redesigned from scratch and completely revised.",
+    "price": 14000,
+    "imgUrl": "/imgs/computer.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Apple Watch Series 4 GPS",
+    "desct": "Redesigned from scratch and completely revised.",
+    "price": 14000,
+    "imgUrl": "/imgs/computer.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Apple Watch Series 4 GPS",
+    "desct": "Redesigned from scratch and completely revised.",
+    "price": 14000,
+    "imgUrl": "/imgs/computer.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Apple Watch Series 4 GPS",
+    "desct": "Redesigned from scratch and completely revised.",
+    "price": 14000,
+    "imgUrl": "/imgs/computer.jpg"
+  }
+]
