@@ -15,7 +15,7 @@ export function CartItem({ id, quantity }: CartItemProps) {
     <Stack direction='horizontal' gap={2} className='d-flex align-items-center'>
       <img
         src={item.imgUrl}
-        style={{ width: '125px', height: '75px', objectFit: 'cover' }}
+        style={{ width: '105px', height: '60px', objectFit: 'cover'}}
       />
       <div className='me-auto'>
         <div>
@@ -30,12 +30,12 @@ export function CartItem({ id, quantity }: CartItemProps) {
           {formatCurrency(item.price)}
         </div>
       </div>
-      <div>
+      <div >
         {formatCurrency(item.price * quantity)}
-        <Button
-          className='ms-2'
+        <Button style={{  color: 'white', width: '1.5rem', height: '1.5rem'}}   //icone "x" dos item selecionados para corrigir
+          className=' rounded-circle border-0 bg-black'
           variant='outline-danger'
-          size='sm'
+          size='sm' 
           onClick={() => removeFromCart(item.id)}
         >
           &times;
